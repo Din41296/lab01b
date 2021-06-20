@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+
+
+.para{
+    background-color: grey;
+    color: white;
+    margin: 0;
+}
+
+
+
+li{
+    display: inline-block;
+    border: 1px solid grey;
+    width: 250px;
+    background-color: aqua;
+    margin-right: 100px;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
